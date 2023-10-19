@@ -11,7 +11,7 @@ or
 $ ./TCPChat <port>
 ```
 
-then on new terminals run clients on the same port that the server is listening on
+then on new terminals run clients on the same port that the server is listening to
 ```sh
 $ nc localhost <port>
 ```
